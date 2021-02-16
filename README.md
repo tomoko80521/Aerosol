@@ -1,1 +1,1 @@
-# Aerosol
+# GCOM-C SGLI ARNP products
